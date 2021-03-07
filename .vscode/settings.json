@@ -1,0 +1,22 @@
+{
+   "spellright.language": [
+      "en"
+   ],
+   "spellright.documentTypes": [
+      "markdown",
+      "latex",
+      "plaintext",
+      "source.stylus.jsx.styled"
+   ],
+   "spellright.parserByClass": {
+      "source.stylus.jsx.styled": {
+         "parser": "xml"
+      }
+   },
+   "cSpell.enableFiletypes": [
+      "!javascriptreact",
+      "!source.stylus.jsx.styled",
+      "blade",
+      "source.css.jsx.styled"
+   ]
+}
